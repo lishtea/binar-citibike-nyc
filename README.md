@@ -17,22 +17,20 @@ We're analyzing the data to look for :
 ## Result
 Tools : SQL query using google BigQuery, Data visualizaton using Looker Studio (GDS). 
 
-- a
+- Overall Analysis
 ![image](images/1.jpg)
 
-
-- b
+- Top Start Station & Used Bike
 ![image](images/2.jpg)
 
-- c
+- Favorite Biking Day
 ![image](images/3.jpg)
 
-
-- d
+- Customer Segmentation
 ![image](images/4.jpg)
 
-- e
+- User Age
 ![image](images/5.jpg)
 
-- f
+- User Type
 ![image](images/6.jpg)
