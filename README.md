@@ -21,6 +21,7 @@ Firstly, let's take a look at the overall analysis.
 
 - Overall Analysis
 ![image](images/1.jpg)
+
 To answer previous questions : 
 1. Total trip made is over 3 million trips over a year (2015 - 2016)
 2. Average trip duration is 979 seconds or around 27 minutes per trip. 
@@ -29,11 +30,16 @@ To answer previous questions :
 
 We also put that the furthest trip made in the year is over 8 km while the average trip people made is around 1,8 km.
 
+With the number of bike used increased every year, we can safely assume that so far in until 2016, the citibike business is thriving. More people used bike every year.
+From average trip duration per month in the year 2015 to 2016, we can see there are ups and downs. Especially in October to March, there are less people using the bike probably due the weather since it's winter and too cold to bike. 
+The same can be said on June where the number also decreased, probably due weather. It is possible in June they had common rain, or even storm which made them impossible to ride. 
+
 - Top Start Station & Used Bike
 ![image](images/2.jpg)
 
 - Favorite Biking Day
 ![image](images/3.jpg)
+We can see from the chart, that user most likely biking on Wednesday or Thursday over the weekends. This probably because more user having other events or even just staying at home resting on weekends. This means that citibike needs to prepare for a lot of bike stock ready to use during the time. 
 
 - Customer Segmentation
 ![image](images/4.jpg)
