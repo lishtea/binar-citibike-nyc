@@ -17,6 +17,8 @@ Using the data from 2015 - 2016 we're analyzing the data to look for :
 ## Result
 Tools : SQL query using google BigQuery, Data visualizaton using Looker Studio (GDS). 
 
+Firstly, let's take a look at the overall analysis.
+
 - Overall Analysis
 ![image](images/1.jpg)
 
