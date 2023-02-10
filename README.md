@@ -3,7 +3,7 @@ Dataset taken from Google's public bigQuery.
 
 ## Overview
 Citi Bike is NYC’s official bike share program, designed to give residents and visitors a fun, affordable and convenient alternative to walking, taxis, buses and subways. 
-We're analyzing the data to look for : 
+Using the data from 2015 - 2016 we're analyzing the data to look for : 
 1. Total trip
 2. Average trip duration
 3. Average bike trip per day
