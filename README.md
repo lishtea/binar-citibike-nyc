@@ -21,6 +21,13 @@ Firstly, let's take a look at the overall analysis.
 
 - Overall Analysis
 ![image](images/1.jpg)
+To answer previous questions : 
+1. Total trip made is over 3 million trips over a year (2015 - 2016)
+2. Average trip duration is 979 seconds or around 27 minutes per trip. 
+3. Average bike trip per day is over 30,000 trips a day.
+4. Average bike numbers used daily is over 4,500 bikes everyday.
+
+We also put that the furthest trip made in the year is over 8 km while the average trip people made is around 1,8 km.
 
 - Top Start Station & Used Bike
 ![image](images/2.jpg)
