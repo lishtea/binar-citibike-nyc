@@ -1,9 +1,10 @@
 # Citbike Rental Overview Report
-Dataset taken from Google's public bigQuery. 
+Dataset taken from Google's public bigQuery with table ID `bigquery-public-data:new_york_citibike.citibike_trips`.
 
 ## Overview
 Citi Bike is NYC’s official bike share program, designed to give residents and visitors a fun, affordable and convenient alternative to walking, taxis, buses and subways. 
-Using the data from 2015 - 2016 we're analyzing the data to look for : 
+
+Using the data from 2015 - 2016 we're analyzing the data to look for: 
 1. Total trip
 2. Average trip duration
 3. Average bike trip per day
@@ -43,6 +44,10 @@ We can see from the chart, that user most likely biking on Wednesday or Thursday
 
 - Customer Segmentation
 ![image](images/4.jpg)
+We breakdown our user to their gender, but since it is not mandatory to fill when registered there are a lot of "unknown" user. 
+From gender, we can also see that male user ride faster than female users, probably because they like to speed up during biking. 
+
+But what's with the unknown user? Why they have longer duration?
 
 - User Age
 ![image](images/5.jpg)
