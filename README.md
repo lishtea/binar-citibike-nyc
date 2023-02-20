@@ -44,13 +44,20 @@ We can see from the chart, that user most likely biking on Wednesday or Thursday
 
 - Customer Segmentation
 ![image](images/4.jpg)
-We breakdown our user to their gender, but since it is not mandatory to fill when registered there are a lot of "unknown" user. 
-From gender, we can also see that male user ride faster than female users, probably because they like to speed up during biking. 
+We breakdown our user to their gender, but since it is not mandatory to fill when registering, there are a lot of "unknown" user. 
+From gender, we can also see that male user ride faster than female users, probably because they like to speed up during biking due to their bigger physique. 
 
-But what's with the unknown user? Why they have longer duration?
+But what's with the unknown user? Why do they have longer duration? 
+This probably because most of them aren't New Yorkers, could be visitors from other cities, travellers, or might be New Yorkers that just registering to try the bike and not coming back to use the application hence they took their time in biking, sightseeing, and having longer duration as the result. 
 
 - User Age
 ![image](images/5.jpg)
+From user age, we can see how the most users registered are 59 - 80 years old. Which in their age group, they probably have more time to try ew things like hoing biking, sightseeing, or it might be just their hobby. But the interesting thing to point out is, from trips by age group we can observe how this age group has less biking duration compared to the age group in 24 - 38. 
+We can assume that, while the younger age group (24 - 38) bike longer since they have better physique, probably they travel to further distance and all, the oldest age group (59 - 80) only bike to closer stations, or use it just 1 -2 times for trying them out. 
+
 
 - User Type
 ![image](images/6.jpg)
+Comparing Subscriber with Customers, we can see how most users prefers to be Subscriber. This probably because being a subscribe member has better benefit, time efficient and cheaper compared to being a customer that has to re-registering when they have to use the service again. 
+
+It also safe to assume that most customer are probably not a new yorker, or user that just trying out the service. Seeing from their bike duration, probably they bike slowly to sightseeing. 
